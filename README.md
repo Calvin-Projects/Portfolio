@@ -29,16 +29,15 @@ Hello! I'm Calvin Ugbedeojo Adejoh 🤓, a Data Analyst and a Business Analyst, 
 **Providing Insight to the Revenue Team in the Hospitality Domain.**
 ![image](Hospitality Analysis.JPG)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
-
+Visage global owns multiple five-star hotels across Nigeria. Due to strategic move from other competitors and ineffective decision making in management, Visage global were losing their market share and revenue in the luxury/business hotels category. So, the revenue management team hired me to provide them with insights from their historical data. 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Facility Management Data.**
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+An organization with facilities in several states in Nigeria needed insights on perfomance level and running cost of maintenance on all their facilities.So I analyzed their data and provided the value they seek.
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
