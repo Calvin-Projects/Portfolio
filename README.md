@@ -39,16 +39,15 @@ Visage global owns multiple five-star hotels across Nigeria. Due to strategic mo
 
 An organization with facilities in several states in Nigeria needed insights on perfomance level and running cost of maintenance on all their facilities.So I analyzed their data and provided the value they seek.
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[See dataset here](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 **Sales, Revenue and Profit Dashboarding.**
 
 ![image](Abulkareems's Ent. Revenuo Dashboard.JPG)
-![image](Abulkareems's Ent. Revenuo Dashboard.JPG)
+![image](Abulkareems's Ent. Profit Dashboard.JPG)
 
 During my internship role as a business analyst at Abdulkareem's Enterprice, as one of my key responsiblities I was always charged with visualizing the sales, revenue and profit data set while also making prensentation to the stakeholders.
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
