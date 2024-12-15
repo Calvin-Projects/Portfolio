@@ -66,7 +66,8 @@ During my internship role as a business analyst at Abdulkareem's Enterprice, as 
     <tr>
       <td>📍</td>
       <td>Jos, Nigeria</td>
-   
+   </tr>
+    <tr>
       <td>🌐</td>
       <td><a href="https://www.linkedin.com/in/adejoh-ugbedeojo-calvin-601358216/">I am on LinkedIn</a></td>
     </tr>
