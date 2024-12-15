@@ -61,31 +61,20 @@ During my internship role as a business analyst at Abdulkareem's Enterprice, as 
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 16-763-7212</td>
+      <td>(234) 906-022-2533</td>
     </tr>
     <tr>
       <td>📍</td>
       <td>Jos, Nigeria</td>
-    </tr>
-    <tr>
-      <td>⬇️</td>
-    
-    </tr>
-    <tr>
+   
       <td>🌐</td>
       <td><a href="https://www.linkedin.com/in/adejoh-ugbedeojo-calvin-601358216/">I am on LinkedIn</a></td>
     </tr>
     <tr>
-      <td>📺</td>
-   
-    </tr>
-  </tbody>
-</table>
-
-   
+     
 
 
 
 
-Raw File by Anietie Etuk.txt
-Displaying Raw File by Anietie Etuk.txt.
+Raw File by Calvin Ugbedeojo Adejoh.txt
+Displaying Raw File by Calvin Ugbedeojo Adejoh.txt.
