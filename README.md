@@ -29,7 +29,7 @@ Hello! I'm Calvin Ugbedeojo Adejoh 🤓, a Data Analyst and a Business Analyst, 
 **Providing Insight to the Revenue Team in the Hospitality Domain.**
 ![image](Hospitality Analysis.JPG)
 
-Visage global owns multiple five-star hotels across Nigeria. Due to strategic move from other competitors and ineffective decision making in management, Visage global were losing their market share and revenue in the luxury/business hotels category. So, the revenue management team hired me to provide them with insights from their historical data. 
+Visage global owns multiple five-star hotels across Nigeria. Due to strategic move from other competitors and ineffective decision making in management, Visage global were losing their market share and revenue in the luxury/business hotels category. So, the revenue management team contacted me to provide them with insights from their historical data. 
 
 [See dataset here](Hospitality Project New.pbix)
 
@@ -37,7 +37,7 @@ Visage global owns multiple five-star hotels across Nigeria. Due to strategic mo
 
 ![image](Facility Project.JPG)
 
-An organization with facilities in several states in Nigeria needed insights on perfomance level and running cost of maintenance on all their facilities.So I analyzed their data and provided the value they seek.
+An organization with facilities in several states in Nigeria needed insights on perfomance level and running cost of maintenance on all their facilities. So I analyzed their data and communicated my findings with them.
 
 [See dataset here](facility_management_data.csv)
 
