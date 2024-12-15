@@ -35,17 +35,17 @@ Visage global owns multiple five-star hotels across Nigeria. Due to strategic mo
 
 **Facility Management Data.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](Facility Project.JPG)
 
 An organization with facilities in several states in Nigeria needed insights on perfomance level and running cost of maintenance on all their facilities.So I analyzed their data and provided the value they seek.
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Sales, Revenue and Profit Dashboarding.**
 
 ![image](3 anietie etuk data analytics agro project.jpg)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+During my internship role as a business analyst at Abdulkareem's Enterprice, as one of my key responsiblities I was always charged with visualizing the sales, revenue and profit data set while also making prensentation to the stakeholders.
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
