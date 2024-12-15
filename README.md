@@ -2,7 +2,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Calvin Ugbedeojo Adejoh 🤓, a Data Analyst and a Business Analyst, with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I am Calvin Ugbedeojo Adejoh 🤓, a Data Analyst and a Business Analyst, with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
