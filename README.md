@@ -54,8 +54,7 @@ During my internship role as a business analyst at Abdulkareem's Enterprice, as 
 
 *Let’s connect and see how we can make a difference together!*
 <table>
-    <tr>
-      <td>📧</td>
+
       <td><a href="mailto:adejohugbedeojocalvin@gmail.com">ugbedeojoadejoh@gmail.com</a></td>
     </tr>
     <tr>
