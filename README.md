@@ -43,7 +43,8 @@ An organization with facilities in several states in Nigeria needed insights on 
 
 **Sales, Revenue and Profit Dashboarding.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](Abulkareems's Ent. Revenuo Dashboard.JPG)
+![image](Abulkareems's Ent. Revenuo Dashboard.JPG)
 
 During my internship role as a business analyst at Abdulkareem's Enterprice, as one of my key responsiblities I was always charged with visualizing the sales, revenue and profit data set while also making prensentation to the stakeholders.
 
