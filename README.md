@@ -39,7 +39,7 @@ Visage global owns multiple five-star hotels across Nigeria. Due to strategic mo
 
 An organization with facilities in several states in Nigeria needed insights on perfomance level and running cost of maintenance on all their facilities.So I analyzed their data and provided the value they seek.
 
-[See dataset here](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[See dataset here](facility_management_data.csv)
 
 **Sales, Revenue and Profit Dashboarding.**
 
