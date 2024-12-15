@@ -54,26 +54,34 @@ During my internship role as a business analyst at Abdulkareem's Enterprice, as 
 
 *Let’s connect and see how we can make a difference together!*
 <table>
-
-      <td><a href="mailto:adejohugbedeojocalvin@gmail.com">ugbedeojoadejoh@gmail.com</a></td>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:adejohugbedeojocalvin@gmail.com">adejohugbedeojocalvin@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 906-022-2533</td>
+      <td>(234) 16-763-7212</td>
     </tr>
     <tr>
       <td>📍</td>
       <td>Jos, Nigeria</td>
     </tr>
     <tr>
-      
+      <td>⬇️</td>
+    
     </tr>
     <tr>
       <td>🌐</td>
       <td><a href="https://www.linkedin.com/in/adejoh-ugbedeojo-calvin-601358216/">I am on LinkedIn</a></td>
     </tr>
     <tr>
-     
+      <td>📺</td>
+   
+    </tr>
+  </tbody>
+</table>
+
    
 
 
