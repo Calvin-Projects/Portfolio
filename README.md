@@ -31,7 +31,7 @@ Hello! I'm Calvin Ugbedeojo Adejoh 🤓, a Data Analyst and a Business Analyst, 
 
 Visage global owns multiple five-star hotels across Nigeria. Due to strategic move from other competitors and ineffective decision making in management, Visage global were losing their market share and revenue in the luxury/business hotels category. So, the revenue management team hired me to provide them with insights from their historical data. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[See dataset here](Hospitality Project New.pbix)
 
 **Facility Management Data.**
 
