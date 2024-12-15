@@ -27,7 +27,7 @@ Hello! I'm Calvin Ugbedeojo Adejoh 🤓, a Data Analyst and a Business Analyst, 
 *A glimpse of some of the projects I've been working on.*
 
 **Providing Insight to the Revenue Team in the Hospitality Domain.**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](Hospitality Analysis.JPG)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
